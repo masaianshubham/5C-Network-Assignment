@@ -1,0 +1,15 @@
+.searchBar {
+    margin-top:10%;
+    text-align: center;
+}
+
+
+.cards {
+    width: 70%;
+    margin: 0px 20%;
+    display: grid;
+    grid-template-columns: 50% 50%;
+
+}
+
+

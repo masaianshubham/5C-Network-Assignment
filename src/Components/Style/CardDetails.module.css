@@ -1,0 +1,13 @@
+.detail {
+    display: flex;
+    padding: 3%;
+    padding-left: 8%;
+    text-align: left;
+    justify-content: left;
+}
+
+.detail img {
+    width: 150px;
+    border-radius: 50%;
+    padding:  0px 30px;
+}
